@@ -1,0 +1,66 @@
+.valor{
+    color: white;
+}
+
+.containervalores{
+    font-family: "News Cycle", sans-serif;
+    color: #FFD700;
+
+}
+
+.detalhes{
+    color: white;
+    padding-left: 20px;
+}
+
+.button.link{
+    background-color: red;
+    border: none;
+}
+
+.containervalores button{
+    background: none;
+    cursor: pointer;
+    font-family: "News Cycle", sans-serif;
+    color: #FFD700;
+    font-size: 18px;
+}
+
+.card {
+    box-shadow: 0 0 1em rgba(150, 169, 28, 0.797);
+    transition: 0.3s;
+    width: 30%;
+    margin-left: 1%;
+    margin-right: 1%;
+    margin-bottom: 80px;
+    align-items: center;
+    align-content: center;
+    cursor: pointer;
+    
+  }
+  
+  .card:hover {
+    box-shadow: 0 0 1em rgba(245, 13, 13, 0.897);
+  }
+  
+  .containerhome {
+    padding: 2px 10px;
+    color: #FFD700;
+    text-align: center;
+    text-decoration: none;
+    
+  }
+
+  .containerhome:link {text-decoration: none;}
+  .img{
+    align-self: center;
+  }
+
+  .containervalores a{
+    background: none;
+    cursor: pointer;
+    font-family: "News Cycle", sans-serif;
+    color: #FFD700;
+    font-size: 18px;
+    text-decoration: none;
+}
